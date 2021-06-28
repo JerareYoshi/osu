@@ -12,5 +12,5 @@ parts:
     osu-lazer:
         plugin: nil
         source: "https://github.com/snapcore/patchelf"
-        build-packages
+        build-packages:
         - git
